@@ -12,7 +12,7 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../../index.html" class="nav-link">
+                <a href="/listAdmin" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Admin</p>
                 </a>
@@ -24,7 +24,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="{{asset('adminLTE/index3.html')}}" class="nav-link">
+                <a href="/listPengadaan" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Pengadaan</p>
                 </a>
@@ -35,8 +35,7 @@
             <a href="{{asset('adminLTE/widgets.html')}}" class="nav-link">
               <i class="nav-icon fas fa-list"></i>
               <p>
-                Simple Tables
-           
+                Pengajuan
               </p>
             </a>
           </li>
